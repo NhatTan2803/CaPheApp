@@ -1,0 +1,3 @@
+rootProject.name = 'CaPheApp'
+
+include ':app'
